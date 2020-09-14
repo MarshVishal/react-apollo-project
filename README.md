@@ -16,25 +16,8 @@ npm run dev
 npm run server
 
 # Client only (:3000)
-npm run client
-
-# Build for production (Builds into server ./public)
-cd client && npm run build
+npm run space
 
 # Graphiql - http://localhost:5000/graphql
 ```
 
-## App Info
-
-### Author
-
-Brad Traversy
-[Traversy Media](http://www.traversymedia.com)
-
-### Version
-
-1.0.0
-
-### License
-
-This project is licensed under the MIT License
